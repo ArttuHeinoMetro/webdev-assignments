@@ -25,7 +25,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 
 - 1. Company website: ◐ partially completed, 2/4 test points (`html-css/index.html`)
 
-### JS modules 1 and 2: Interactive programs and control structures (18 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (12 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`) 1p
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`) 2p
